@@ -1,6 +1,6 @@
 # jhipsterSampleApplication
 
-https://travis-ci.org/travis-ci/travis-web.svg?branch=master
+[![Build Status](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
 
 This application was generated using JHipster 4.14.0, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.14.0](http://www.jhipster.tech/documentation-archive/v4.14.0).
 
